@@ -1,4 +1,28 @@
-### Hi there 👋
+## Hi there 👋
+
+### 🔭 Current work:
+- HiroDeli Enterprise (front-end developer)
+
+### 🌱 I’m currently learning:
+- JavaScript
+- React.js
+- React Native
+- Next.js
+- Node.js
+- Express.js
+- Docker
+- Sass
+- Socket.io
+- GitHub
+
+### 📫 How to reach me: 
+- haziqazfar041@gmail.com
+
+### 🎯 Milestones:
+- UITM Scheduler
+- Mobile encrypted chat messenger (Socket.io + Signal Protocol)
+- Whatsapp Web Scraper (collecting media files from each contact)
+- Mobile LAN file transfer
 
 <!--
 **heiz99/heiz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
