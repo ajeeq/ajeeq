@@ -19,10 +19,12 @@
 - haziqazfar041@gmail.com
 
 ### 🎯 Milestones:
-- UITM Scheduler
-- Mobile encrypted chat messenger (Socket.io + Signal Protocol)
-- Whatsapp Web Scraper (collecting media files from each contact)
-- Mobile LAN file transfer
+- Laravel CRUD-based Asset Management System (current repos is private but soon to be public)✅
+- HiroDeli Vendor Signup Form (private)✅
+- UITM Scheduler🔜
+- Mobile encrypted chat messenger (Socket.io + Signal Protocol)🔜
+- Whatsapp Web Scraper (collecting media files from each contact)🔜
+- Mobile LAN file transfer🔜
 
 <!--
 **heiz99/heiz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
